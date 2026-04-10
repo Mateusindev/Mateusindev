@@ -49,9 +49,9 @@ Eu desenvolvo para tornar a vida das pessoas mais simples.
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/Mateusinbessa">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateusinbessa&theme=dark&hide_langs_below=1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusbessa-dev&theme=dark&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/Mateusinbessa">
- <img src="https://github-readme-stats.vercel.app/api?username=Mateusinbessa&show_icons=true&theme=dark&line_height=27" alt="*Mateusinbessa* github stats"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=mateusbessa-dev&show_icons=true&theme=dark&line_height=27" alt="*Mateusinbessa* github stats"/>
 </a>
