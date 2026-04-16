@@ -5,9 +5,8 @@ Eu desenvolvo para tornar a vida das pessoas mais simples.
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
 - 🎈 Um **curioso** nato, com sede de conhecimento e **obcecado** pelo processo, os resultados são consequências.
-- 👩‍💻 Trabalhando um pouco com **Python**, transformando tarefas chatas e repetitivas em apenas 1 clique do mouse.
-- 😎 Estou começando a achar o **back-end** interessante...
-- 😱 Me aprofundando em **Typescript** atualmente.
+- 😎 Estou começando a achar o **back-end** interessante... Parei de centralizar div, agora centralizo lógica
+- 😱 Me aprofundando em **GO** atualmente.
 
 
 <h3> :rocket: &nbsp;Skills</h3>
